@@ -1,0 +1,34 @@
+<div class="footer-top-inner">
+  <div class="row">
+    <div class="col-sm-5">
+      <div class="block" style="margin-bottom: 15px;">
+        <div class="block-title"><strong><span>25% OFF NA PRÓXIMA COMPRA</span></strong></div>
+        <div class="block-content">
+          <p>Para ganhar cadastre-se em nossa newsletter. Você receberá dicas de<br>moda infantil e alertas de promoções exclusivas.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-7">
+      <div class="block-content" style="width:100%;float:right;margin:38px 0px;">
+            <form action="https://queromundo.com/newsletter/subscriber/new/" method="post" id="home-footer-newsletter-validate-detail" onsubmit="setNewsletterCookie()">
+        <div class="input-box">
+            <input type="text" name="email" id="newsletter-footer" title="Cadastre-se em nossa newsletter" class="input-text required-entry validate-email" placeholder="Seu melhor e-mail..." />
+            <button type="submit" title="Eu quero!" class="button"><span><span>Eu quero!</span></span></button>
+            <div class="clearer"></div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var homeFooterNewsletterValidateDetail = new VarienForm('home-footer-newsletter-validate-detail');
+    //]]>
+    </script>
+        <div class="social-icons">
+          <a href="https://facebook.com/lojaqueromundo" title="+ de 60.000 pessoas já curtiram" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="https://www.instagram.com/lojaqueromundo/" title="Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+          <a href="https://twitter.com/lojaqueromundo" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="https://www.youtube.com/channel/UCgX5ULh1bord7aj3bvE-uLQ" title="Youtube" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

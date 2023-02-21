@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+	<adminhtml_sales_order_view>
+			<reference name="order_tab_info">
+				<action method="setTemplate"><template>MOIP/onestepcheckout/sales/order/view/tab/info.phtml</template></action>
+				<block type="core/template" name="customer_messages" template="MOIP/onestepcheckout/sales/order/view/tab/info/Customermessages.phtml"></block>
+
+				<block type="core/template" name="pessoa_info" template="MOIP/onestepcheckout/sales/order/view/tab/info/Tipopessoa.phtml"></block>
+			</reference>
+	</adminhtml_sales_order_view>
+	<adminhtml_system_config_edit>
+	    <update handle="editor"/>
+	    <reference name="head">
+	        <action method="setCanLoadTinyMce"><load>1</load></action>
+			<action method="addjs"><stylesheet>MOIP/onestepcheckout/jscolor.min.js</stylesheet></action>
+		</reference>
+	</adminhtml_system_config_edit>
+	
+</layout>

@@ -1,0 +1,421 @@
+<div id="banner-slider-demo-5" class="owl-carousel owl-theme owl-middle-narrow owl-banner-carousel">
+  <div class="item" style="background:url(https://queromundo.com/media/wysiwyg/porto/homepage/slider/05/verão-2018-promoções-roupinhas-para-bebê-menina-bebê-menino-Loja-Quero-Mundo.jpg) center center no-repeat;background-size:cover;">
+    <div class="container" style="position:relative">
+      <img src="https://queromundo.com/media/wysiwyg/porto/homepage/slider/05/02.png" width="1140" height="500" alt="" />
+    </div>
+  </div>
+</div>
+<script type="text/javascript">// <![CDATA[
+  jQuery(function($){
+    $("#banner-slider-demo-5").owlCarousel({
+      autoPlay:false,
+      lazyLoad:true,
+      stopOnHover:true,
+      pagination:false,
+      autoPlay:false,
+      navigation:false,
+      navigationText:["<i class='icon-chevron-left'></i>","<i class='icon-chevron-right'></i>"],
+      slideSpeed:500,
+      paginationSpeed:500,
+      singleItem:true,
+      addClassActive:true,
+      transitionStyle:"fade",
+      afterMove:function(){
+        $("#banner-slider-demo-5 .owl-item.active .content").each(function(){
+          $(this).addClass($(this).attr("data-animation"));
+        });
+      },
+      beforeMove:function(){
+        $("#banner-slider-demo-5 .owl-item .content").each(function(){
+          $(this).removeClass($(this).attr("data-animation"));
+        });
+      }
+    });
+  });
+// ]]></script>
+<div class="homepage-bar">
+<div class="container">
+<div class="row">
+<div class="col-md-4" style="text-align: left;"><em class="icon-shipping" style="font-size: 35px;"></em>
+<div class="text-area">
+<h3>FRETE GR&Aacute;TIS</h3>
+<p>Para compras acima de R$249</p>
+</div>
+</div>
+<div class="col-md-4" style="text-align: center;"><em class="icon-us-dollar" style="font-size: 37px;"></em>
+<div class="text-area">
+<h3>PAGUE EM AT&Eacute; 6X</h3>
+<p>Sem juros</p>
+</div>
+</div>
+<div class="col-md-4" style="text-align: center;"><em class="icon-support" style="font-size: 37px;"></em>
+<div class="text-area">
+<h3>ATENDIMENTO ONLINE</h3>
+<p>Conte com a nossa ajuda</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="single-images border-radius" style="padding-top: 14px;">
+<div class="container">
+<div class="row">
+<div class="col-sm-4 col-xs-12" style="padding-top: 20px;"><a class="image-link" href="https://queromundo.com/conjunto-masculino-com-casaco-manga-longa-e-calca-plush-team-bebe-menino.html"> <img alt="" src="https://queromundo.com/media/wysiwyg/porto/homepage/slider/05/promocao-da-semana-conjunto-plush-team-loja-quero-mundo.png" /> </a></div>
+<div class="col-sm-4 col-xs-12" style="padding-top: 20px;"><a class="image-link" href="https://queromundo.com/verao-2018/verao-2018-bebe-menina.html"> <img alt="" src="https://queromundo.com/media/wysiwyg/porto/homepage/slider/05/promocao-de-verao-2018-bebe-menina-Loja-Quero-Mundo.png" /> </a></div>
+<div class="col-sm-4 col-xs-12" style="padding-top: 20px;"><a class="image-link" href="https://queromundo.com/verao-2018/verao-2018-bebe-menino.html"> <img alt="" src="https://queromundo.com/media/wysiwyg/porto/homepage/slider/05/promocao-de-verao-2018-bebe-menino-Loja-Quero-Mundo.png" /> </a></div>
+</div>
+</div>
+</div>
+<div style="padding-top: 40px; padding-bottom: 66px; margin-top: 34px; background-color: #f7f7f7;">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<h2 class="filter-title"><span class="content"><strong>Roupinhas em Destaque</strong></span></h2>
+<div class="owl-top-narrow" id="new_product"><div class="filter-products">
+        <div class="products owl-carousel">
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                            <a href="https://queromundo.com/quickview/index/view/id/54" class="quickview-icon"><i class="icon-export"></i><span>Ver Produto</span></a>
+                                        <a href="https://queromundo.com/macacao-longo-bebe-menina-royal-heart.html" title="Macacão Longo Royal Heart" class="product-image">
+                                            <img class="defaultImage " src="https://queromundo.com/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/m/a/macacao-longo-royal-heart-loja-quero-mundo-1.png" width="300"  alt="Macacão Longo Royal Heart"/>
+                        <img class="hoverImage" src="https://queromundo.com/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/m/a/macacao-longo-royal-heart-loja-quero-mundo-2.png" width="300"  alt="Macacão Longo Royal Heart"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                                                                                                        <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                        <h2 class="product-name"><a href="https://queromundo.com/macacao-longo-bebe-menina-royal-heart.html" title="Macacão Longo Royal Heart">Macacão Longo Royal Heart</a></h2>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-54">
+                                            <span class="price">R$91,90</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://queromundo.com/wishlist/index/add/product/54/form_key/DiCrCRBMzWO3QJuz/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://queromundo.com/macacao-longo-bebe-menina-royal-heart.html" class="addtocart" title="Comprar"><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                <a href='https://queromundo.com/ajaxcart/index/options/product_id/54/' class='fancybox' id='fancybox54' style='display:none'>Options</a>
+                                                                                                        <a href="https://queromundo.com/catalog/product_compare/add/product/54/uenc/aHR0cHM6Ly9xdWVyb211bmRvLmNvbS8,/form_key/DiCrCRBMzWO3QJuz/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                            <a href="https://queromundo.com/quickview/index/view/id/128" class="quickview-icon"><i class="icon-export"></i><span>Ver Produto</span></a>
+                                        <a href="https://queromundo.com/conjunto-feminino-com-casaco-manga-longa-e-calca-plush-princess-bebe-menina.html" title="Conjunto Plush Princess" class="product-image">
+                                            <img class="defaultImage " src="https://queromundo.com/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/c/o/conjunto-plush-princess-loja-quero-mundo-1.png" width="300"  alt="Conjunto Plush Princess"/>
+                        <img class="hoverImage" src="https://queromundo.com/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/c/o/conjunto-plush-princess-loja-quero-mundo-2_2.png" width="300"  alt="Conjunto Plush Princess"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                                                                                                        <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                        <h2 class="product-name"><a href="https://queromundo.com/conjunto-feminino-com-casaco-manga-longa-e-calca-plush-princess-bebe-menina.html" title="Conjunto Plush Princess">Conjunto Plush Princess</a></h2>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-128">
+                                            <span class="price">R$129,90</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://queromundo.com/wishlist/index/add/product/128/form_key/DiCrCRBMzWO3QJuz/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://queromundo.com/conjunto-feminino-com-casaco-manga-longa-e-calca-plush-princess-bebe-menina.html" class="addtocart" title="Comprar"><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                <a href='https://queromundo.com/ajaxcart/index/options/product_id/128/' class='fancybox' id='fancybox128' style='display:none'>Options</a>
+                                                                                                        <a href="https://queromundo.com/catalog/product_compare/add/product/128/uenc/aHR0cHM6Ly9xdWVyb211bmRvLmNvbS8,/form_key/DiCrCRBMzWO3QJuz/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                            <a href="https://queromundo.com/quickview/index/view/id/133" class="quickview-icon"><i class="icon-export"></i><span>Ver Produto</span></a>
+                                        <a href="https://queromundo.com/conjunto-masculino-com-casaco-manga-longa-e-calca-plush-team-bebe-menino.html" title="Conjunto Plush Team" class="product-image">
+                                            <img class="defaultImage " src="https://queromundo.com/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/c/o/conjunto-plush-team-loja-quero-mundo-1.png" width="300"  alt="Conjunto Plush Team"/>
+                        <img class="hoverImage" src="https://queromundo.com/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/c/o/conjunto-plush-team-loja-quero-mundo-2.png" width="300"  alt="Conjunto Plush Team"/>
+                                                                                                    </a>
+                                                    <div class="product-label" style="right: 10px;"><span class="sale-product-icon">-14%</span></div>
+                                                        </div>
+                <div class="details-area">
+                                                                                    <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://queromundo.com/review/product/list/id/133/'; return false;"><span class="number">1</span>Review(s)</a></span>
+    </div>
+                                                                                    <h2 class="product-name"><a href="https://queromundo.com/conjunto-masculino-com-casaco-manga-longa-e-calca-plush-team-bebe-menino.html" title="Conjunto Plush Team">Conjunto Plush Team</a></h2>
+                                                            
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Preço:</span>
+                <span class="price" id="old-price-133">
+                    R$129,90                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-133">
+                    R$111,90                </span>
+                </p>
+                    
+    
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://queromundo.com/wishlist/index/add/product/133/form_key/DiCrCRBMzWO3QJuz/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://queromundo.com/conjunto-masculino-com-casaco-manga-longa-e-calca-plush-team-bebe-menino.html" class="addtocart" title="Comprar"><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                <a href='https://queromundo.com/ajaxcart/index/options/product_id/133/' class='fancybox' id='fancybox133' style='display:none'>Options</a>
+                                                                                                        <a href="https://queromundo.com/catalog/product_compare/add/product/133/uenc/aHR0cHM6Ly9xdWVyb211bmRvLmNvbS8,/form_key/DiCrCRBMzWO3QJuz/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                            <a href="https://queromundo.com/quickview/index/view/id/37" class="quickview-icon"><i class="icon-export"></i><span>Ver Produto</span></a>
+                                        <a href="https://queromundo.com/macacao-longo-coroa-principe-bebe-menino.html" title="Macacão Longo Príncipe" class="product-image">
+                                            <img class="defaultImage " src="https://queromundo.com/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/m/a/macacao-longo-principe-loja-quero-mundo-1.png" width="300"  alt="Macacão Longo Príncipe"/>
+                        <img class="hoverImage" src="https://queromundo.com/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/m/a/macacao-longo-principe-loja-quero-mundo-2.png" width="300"  alt="Macacão Longo Príncipe"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                                                                                                        <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                        <h2 class="product-name"><a href="https://queromundo.com/macacao-longo-coroa-principe-bebe-menino.html" title="Macacão Longo Príncipe">Macacão Longo Príncipe</a></h2>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-37">
+                                            <span class="price">R$95,90</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://queromundo.com/wishlist/index/add/product/37/form_key/DiCrCRBMzWO3QJuz/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://queromundo.com/macacao-longo-coroa-principe-bebe-menino.html" class="addtocart" title="Comprar"><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                <a href='https://queromundo.com/ajaxcart/index/options/product_id/37/' class='fancybox' id='fancybox37' style='display:none'>Options</a>
+                                                                                                        <a href="https://queromundo.com/catalog/product_compare/add/product/37/uenc/aHR0cHM6Ly9xdWVyb211bmRvLmNvbS8,/form_key/DiCrCRBMzWO3QJuz/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                </div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+          jQuery(function($){
+            $("#featured_product .filter-products .owl-carousel").owlCarousel({lazyLoad: true,    itemsCustom: [ [0, 1], [320, 1], [480, 2], [768, 3], [992, 4], [1280, 5] ],    responsiveRefreshRate: 50,    slideSpeed: 200,    paginationSpeed: 500,    scrollPerPage: true,    stopOnHover: true,    rewindNav: true,    rewindSpeed: 600,    pagination: false,    navigation: true,    autoPlay: true,    navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]});
+          });
+        
+// ]]></script>
+</div>
+</div>
+</div>
+</div>
+<div style="padding-top: 39px; padding-bottom: 40px; margin-bottom: 25px;">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+</div>
+</div>
+</div>
+<div class="custom-support" style="padding-top: 50px; padding-bottom: 50px; background-color: #fff;">
+<div class="container">
+<div class="row">
+<div class="col-sm-4"><em class="icon-star" style="line-height: 58px; font-size: 40px;"></em>
+<div class="content">
+<h2><a href="https://www.facebook.com/profile.php?id=100003709319123" target="_blank">Bruna Ramos Padilha</a></h2>
+<em>Mamãe do Nicolas</em>
+<p><span><strong>"</strong> <span>Nicolas usando conjunto de inverno da loja quero mundo. Beb&ecirc; lindo e quentinho! Obrigada pelo capricho da embalagem.</span></span><span>&nbsp;<strong>"</strong></span></p>
+</div>
+</div>
+<div class="col-sm-4"><em class="icon-star" style="line-height: 58px; font-size: 40px;"></em>
+<div class="content">
+<h2><a href="https://www.facebook.com/nidia.panizza" target="_blank">Nidia A O Panizza</a></h2>
+<em>Mamãe da Lala</em>
+<p><span><strong>"</strong> Quando vc recebe as comprinhas da Loja Quero Mundo... parece que est&aacute; recebendo um presente! E de fato, &eacute; um presente! Maior cuidado e carinho. E ainda com cheirinho.</span><br /><span class="_5afx"><span class="_58cl _5afz">#</span><span class="_58cm">QueroMundo</span></span><span>&nbsp;</span><span class="_5afx"><span class="_58cl _5afz">#</span><span class="_58cm">querotudo</span></span><span>! <strong>"</strong></span></p>
+</div>
+</div>
+<div class="col-sm-4"><em class="icon-star" style="line-height: 58px; font-size: 40px;"></em>
+<div class="content">
+<h2><a href="https://www.facebook.com/silvia.ribeiro.7771?hc_ref=ARQIqP9liK1_YwsgO9I4Vnf2v9OTAvo-e7b3H5pO89ZGKJDdeZyYmtxjk_QeOgUlDcE" target="_blank">Silvia Ribeiro</a></h2>
+<em>Mamãe do Bernardo</em>
+<p><span><strong>"</strong> <span>O Bernardo ficou lindo e confort&aacute;vel com esse conjunto lindo de voc&ecirc;s Loja Quero Mundo. Obrigada pelo &oacute;timo atendimento!!!</span></span><span>&nbsp;<strong>"</strong></span></p>
+     </div>
+    </div>
+  </div>
+</div>
+<p style="text-align: center;"><span style="color: #febd43;"><a href="https://www.facebook.com/lojaqueromundo/posts_to_page/" target="_blank"><span style="color: #febd43;"><em>Veja outros depoimentos de clientes satisfeitos...</em></span></a></span></p>
+</div>
+<p style="text-align: justify;"></p>
+<p style="text-align: left;"></p>
+<script type="text/javascript">// <![CDATA[
+          jQuery(function($){
+            $("#new_product .filter-products .owl-carousel").owlCarousel({lazyLoad: true,    itemsCustom: [ [0, 1], [320, 1], [480, 2], [768, 3], [992, 4], [1280, 4] ],    responsiveRefreshRate: 50,    slideSpeed: 200,    paginationSpeed: 500,    scrollPerPage: false,    stopOnHover: true,    rewindNav: true,    rewindSpeed: 600,    pagination: true,    navigation: false,    autoPlay: true,    navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]});
+          });
+        
+// ]]></script>
+</div>
+</div>
+</div>
+</div>
+<div class="custom-support" style="padding-top: 50px; padding-bottom: 50px; background-color: #f7f7f7;">
+<div class="container">
+<div class="row">
+<div class="col-sm-4"><em class="icon-earphones-alt" style="line-height: 58px; font-size: 40px;"></em>
+<div class="content">
+<h2>Fale Conosco</h2>
+<em>Ligue ou envie mensagem</em>
+<p>D&uacute;vidas? Ligue para 11 3641-2861 ou mande uma mensagem pelo WhatsApp para 11 97353-9580. N&oacute;s ficaremos felizes em ajudar.</p>
+</div>
+</div>
+<div class="col-sm-4"><em class="icon-credit-card" style="line-height: 58px; font-size: 40px;"></em>
+<div class="content">
+<h2>Pagamento Flex&iacute;vel</h2>
+<em>E completamente seguro</em>
+<p>Escolha qual &eacute; a melhor forma de pagamento e parcele suas compras em at&eacute; 6X sem juros no cart&atilde;o de cr&eacute;dito ou ganhe desconto no boleto.</p>
+</div>
+</div>
+<div class="col-sm-4"><em class="icon-action-undo" style="line-height: 58px; font-size: 40px;"></em>
+<div class="content">
+<h2>Trocas e Devolu&ccedil;&otilde;es</h2>
+<em>S&atilde;o por nossa conta</em>
+<p>Caso aconte&ccedil;a algum problema com a sua compra ou voc&ecirc; n&atilde;o receba o produto de acordo com o que esperava n&oacute;s fazemos a troca gratuitamente.</div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<div class="parallax-wrapper ">
+  <!--div class="overlay overlay-color" style="background-color: #000000; opacity: 0.75; filter: alpha(opacity=75);"></div-->
+  <div class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(https://queromundo.com/media/wysiwyg/porto/homepage/content/05/promocoes-de-verao-Loja-Quero-Mundo.jpg);">
+    <div class="parallax-slider" style="position: relative; z-index: 3;">
+      <div class="container">
+        <div id="parallax-slider-demo-5" class="owl-carousel owl-theme">
+          <div class="item">
+            <p><span style="color: #000000;"><strong>VERÃO 2018</strong></span></p>
+            <a class="btn btn-default" href="https://queromundo.com/verao-2018/verao-2018-bebe-menina.html" style="font-weight:400;">Bebê Menina</a> <a class="btn btn-default" href="https://queromundo.com/verao-2018/verao-2018-bebe-menino.html" style="font-weight:400;">Bebê Menino</a>
+          </div>
+        </div>
+      </div>
+      <script type="text/javascript">
+        jQuery(function($){
+          $("#parallax-slider-demo-5").owlCarousel({navigation:false,pagination: true,slideSpeed : 300,paginationSpeed : 400,    stopOnHover: false,autoPlay: true,singleItem:true});
+        });
+      </script>
+    </div>
+  </div>
+</div>
+<div class="latest-blog" style="background-color: #f4f4f4; padding-bottom: 50px;">
+<div class="container">
+<h2 class="filter-title" style="margin-top: 40px; padding-bottom: 5px;"><strong>DICAS PARA MAM&Atilde;ES E BEB&Ecirc;S</strong></span></h2>
+<div class="owl-top-narrow" id="latest_news">
+<div class="recent-posts">
+<div class="owl-carousel owl-theme">
+<div class="owl-item">
+<div class="item">
+<div class="recent-inner">
+<div class="row">
+<div class="col-sm-5">
+<div class="post-image"><img alt="" src="https://queromundo.com/media/wysiwyg/porto/blog/05/post01.jpg" />
+<div class="post-date"><span class="day">05</span> <span class="month">Jul</span></div>
+</div>
+</div>
+<div class="col-sm-7">
+<div class="postTitle">
+<h2><a href="https://queromundo.com/blog/cat/novidades/post/dicas-para-organizar-um-cha-de-bebe/">Chá de bebê</a></h2>
+</div>
+<div class="postContent">
+<p>Quando os últimos meses da<br />gestação se aproximam é hora<br />de começar a pensar no chá de bebê...</p>
+</div>
+<a class="readmore btn btn-default" href="https://queromundo.com/blog/cat/novidades/post/dicas-para-organizar-um-cha-de-bebe/">Continuar Lendo</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="owl-item">
+<div class="item">
+<div class="recent-inner">
+<div class="row">
+<div class="col-sm-5">
+<div class="post-image"><img alt="" src="https://queromundo.com/media/wysiwyg/porto/blog/05/post02.jpg" />
+<div class="post-date"><span class="day">06</span> <span class="month">Jul</span></div>
+</div>
+</div>
+<div class="col-sm-7">
+<div class="postTitle">
+<h2><a href="https://queromundo.com/blog/cat/novidades/post/visitas-na-maternidade/">Visitas na maternidade</a></h2>
+</div>
+<div class="postContent">
+<p>O nascimento de um bebê<br />é um momento de muito amor<br />e felicidade. Estar ao lado de...</p>
+</div>
+<a class="readmore btn btn-default" href="https://queromundo.com/blog/cat/novidades/post/visitas-na-maternidade/">Continuar Lendo</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+      jQuery(function($){
+        $("#latest_news .owl-carousel").owlCarousel({
+          lazyLoad: true,
+          itemsCustom: [ [0, 1], [320, 1], [480, 1], [640, 2], [768, 2], [992, 2], [1200, 2] ],
+          responsiveRefreshRate: 50,
+          slideSpeed: 200,
+          paginationSpeed: 500,
+          scrollPerPage: false,
+          stopOnHover: true,
+          rewindNav: true,
+          rewindSpeed: 600,
+          pagination: false,
+          navigation: false,
+          autoPlay: true,
+          navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]
+        });
+      });
+    
+// ]]></script>
+</div>
+</div>
+</div>

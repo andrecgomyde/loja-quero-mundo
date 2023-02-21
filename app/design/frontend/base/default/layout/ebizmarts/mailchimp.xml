@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<layout version="0.1.0">
+    <!-- Everywhere -->
+    <default>
+        <reference name="head">
+            <action method="addJs" ifconfig="mailchimp/general/active">
+                <script>ebizmarts/mailchimp/campaignCatcher.js</script>
+            </action>
+            <action method="addJs" ifconfig="mailchimp/emailcatcher/popup_general">
+                <script>prototype/window.js</script>
+            </action>
+            <action method="addJs" ifconfig="mailchimp/emailcatcher/popup_general">
+                <script>scriptaculous/scriptaculous.js</script>
+            </action>
+            <action method="addItem" ifconfig="mailchimp/emailcatcher/popup_general">
+                <type>js_css</type>
+                <script>prototype/windows/themes/default.css</script>
+            </action>
+            <action method="addItem" ifconfig="mailchimp/emailcatcher/popup_general">
+                <type>js_css</type>
+                <script>ebizmarts/mailchimp/popup.css</script>
+            </action>
+            <block type="core/text" name="addMCJs">
+                <action method="setText">
+                    <text helper="mailchimp/getMCJs"></text>
+                </action>
+            </block>
+        </reference>
+        <reference name="content">
+            <block type="mailchimp/popup_emailcatcher" name="emailcatcher"
+                   template="ebizmarts/mailchimp/popup/emailcatcher.phtml"></block>
+        </reference>
+    </default>
+    <!-- Everywhere -->
+
+    <!-- Checkout -->
+    <checkout_onepage_review>
+        <reference name="checkout.onepage.review.info.items.after">
+            <block type="mailchimp/checkout_subscribe" name="mailchimp.subscribe" template="ebizmarts/mailchimp/checkout/subscribe.phtml"/>
+        </reference>
+    </checkout_onepage_review>
+    <!-- Checkout -->
+</layout>

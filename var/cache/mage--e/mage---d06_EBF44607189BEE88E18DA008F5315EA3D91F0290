@@ -1,0 +1,67 @@
+<div class="row">
+<div class="col-sm-12">
+<div class="block-right">
+<div class="row">
+<div class="col-sm-5">
+<div class="block">
+<div class="block-title"><strong><span>MINHA CONTA</span></strong></div>
+<div class="block-content">
+<div class="row">
+<div class="col-sm-6">
+<ul class="links">
+<li><a href="https://queromundo.com/customer/account/login/">Acessar Conta</a></li>
+<li><a href="https://queromundo.com/sales/order/history/">Meus Pedidos</a></li>
+<li><a href="https://queromundo.com/sales/billing_agreement//">Pagamentos</a></li>
+</ul>
+</div>
+<div class="col-sm-6">
+<ul class="links">
+<li><a href="https://queromundo.com/wishlist//">Meus Favoritos</a></li>
+<li><a href="https://queromundo.com/newsletter/manage/">Newsletters</a></li>
+<li><a href="https://queromundo.com/contacts">Suporte</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-7">
+<div class="block">
+<div class="block-title"><strong><span>Loja Quero Mundo</span></strong></div>
+<div class="block-content">
+<div class="row">
+<div class="col-sm-6">
+<ul class="features">
+<li><a href="https://queromundo.com/nossa-loja">Sobre a Loja</a></li>
+<li><a href="https://queromundo.com/blog/cat/novidades/">Blog</a></li>
+<li><a href="https://queromundo.com/contato.html">Contato</a></li>
+</ul>
+</div>
+<div class="col-sm-6">
+<ul class="features">
+<li><a href="https://queromundo.com/termos-de-uso">Termos de Uso</a></li>
+<li><a href="https://queromundo.com/politica-de-privacidade">Pol&iacute;tica de Privacidade</a></li>
+<li><a href="https://queromundo.com/termos-de-uso#politica-de-trocas">Pol&iacute;tica de Trocas</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<div class="block-bottom">
+<div class="row">
+<div class="col-sm-5"><address style="float: left; font-size: 13px;">D&uacute;vidas? Entre em contato com o nosso suporte. Ficaremos felizes em ajudar.</address></div>
+<div class="col-sm-7">
+<div class="working" style="float: left;"><span>Hor&aacute;rio de Atendimento<br /><strong>Seg - Sex / 9:00 - 21:00h</strong></span></div>
+<div class="custom-block" style="float: right;"><img alt="" src="https://queromundo.com/media/wysiwyg/smartwave/footer/Loja_Quero_Mundo-certificado-de-entrega-garantida.png" style="max-width: 100%;" /></div>
+</div>
+</div>
+</div>
+</div>
+</div>

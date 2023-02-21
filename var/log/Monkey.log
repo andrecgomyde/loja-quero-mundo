@@ -1,0 +1,744 @@
+2017-10-17T22:07:54+00:00 DEBUG (7): Array
+(
+    [0] => array (
+)
+    [__pid] => 757432
+)
+
+2017-10-17T22:07:54+00:00 DEBUG (7): Array
+(
+    [0] => Webhook call ended
+    [__pid] => 757432
+)
+
+2017-10-17T22:17:02+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-17 22:17:00',
+  'data' => 
+  array (
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '470771',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'BIRTHDAY' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '34d09d3810',
+  ),
+)
+    [__pid] => 764176
+)
+
+2017-10-17T22:18:06+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'unsubscribe',
+  'fired_at' => '2017-10-17 22:18:05',
+  'data' => 
+  array (
+    'action' => 'delete',
+    'reason' => 'manual',
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '470771',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'BIRTHDAY' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '34d09d3810',
+  ),
+)
+    [__pid] => 764867
+)
+
+2017-10-17T22:18:06+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'unsubscribe',
+  'fired_at' => '2017-10-17 22:18:05',
+  'data' => 
+  array (
+    'action' => 'delete',
+    'reason' => 'manual',
+    'id' => 'f39b899b5d',
+    'email' => 'sac@queromundo.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'web_id' => '451167',
+    'merges' => 
+    array (
+      'EMAIL' => 'sac@queromundo.com',
+      'FNAME' => 'Loja',
+      'LNAME' => 'Quero Mundo',
+      'BIRTHDAY' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '34d09d3810',
+  ),
+)
+    [__pid] => 764866
+)
+
+2017-10-17T22:21:49+00:00 DEBUG (7): Array
+(
+    [0] => array (
+)
+    [__pid] => 767820
+)
+
+2017-10-17T22:21:49+00:00 DEBUG (7): Array
+(
+    [0] => Webhook call ended
+    [__pid] => 767820
+)
+
+2017-10-17T22:36:29+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-17 22:36:27',
+  'data' => 
+  array (
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '470795',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+    ),
+    'list_id' => '6702c75870',
+  ),
+)
+    [__pid] => 778520
+)
+
+2017-10-17T22:37:07+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'unsubscribe',
+  'fired_at' => '2017-10-17 22:37:05',
+  'data' => 
+  array (
+    'action' => 'delete',
+    'reason' => 'manual',
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '470795',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+    ),
+    'list_id' => '6702c75870',
+  ),
+)
+    [__pid] => 778948
+)
+
+2017-10-17T22:37:28+00:00 DEBUG (7): Array
+(
+    [0] => array (
+)
+    [__pid] => 779126
+)
+
+2017-10-17T22:37:28+00:00 DEBUG (7): Array
+(
+    [0] => Webhook call ended
+    [__pid] => 779126
+)
+
+2017-10-17T22:45:06+00:00 DEBUG (7): Array
+(
+    [0] => array (
+)
+    [__pid] => 784714
+)
+
+2017-10-17T22:45:06+00:00 DEBUG (7): Array
+(
+    [0] => Webhook call ended
+    [__pid] => 784714
+)
+
+2017-10-17T22:49:31+00:00 DEBUG (7): Array
+(
+    [0] => array (
+)
+    [__pid] => 788175
+)
+
+2017-10-17T22:49:31+00:00 DEBUG (7): Array
+(
+    [0] => Webhook call ended
+    [__pid] => 788175
+)
+
+2017-10-17T22:51:33+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-17 22:51:32',
+  'data' => 
+  array (
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '470795',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '6702c75870',
+  ),
+)
+    [__pid] => 790274
+)
+
+2017-10-17T22:51:55+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'unsubscribe',
+  'fired_at' => '2017-10-17 22:51:54',
+  'data' => 
+  array (
+    'action' => 'delete',
+    'reason' => 'manual',
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '470795',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '6702c75870',
+  ),
+)
+    [__pid] => 790405
+)
+
+2017-10-17T23:06:53+00:00 DEBUG (7): Array
+(
+    [0] => array (
+)
+    [__pid] => 802833
+)
+
+2017-10-17T23:06:53+00:00 DEBUG (7): Array
+(
+    [0] => Webhook call ended
+    [__pid] => 802833
+)
+
+2017-10-18T01:50:27+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-18 01:50:26',
+  'data' => 
+  array (
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '473939',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 910067
+)
+
+2017-10-18T02:12:52+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'unsubscribe',
+  'fired_at' => '2017-10-18 02:12:51',
+  'data' => 
+  array (
+    'action' => 'delete',
+    'reason' => 'manual',
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '473939',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+      'MMERGE4' => '',
+      'MMERGE5' => '',
+      'MMERGE6' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 923823
+)
+
+2017-10-18T02:45:32+00:00 DEBUG (7): Array
+(
+    [0] => array (
+)
+    [__pid] => 942015
+)
+
+2017-10-18T02:45:32+00:00 DEBUG (7): Array
+(
+    [0] => Webhook call ended
+    [__pid] => 942015
+)
+
+2017-10-18T02:45:51+00:00 DEBUG (7): Array
+(
+    [0] => array (
+)
+    [__pid] => 942212
+)
+
+2017-10-18T02:45:51+00:00 DEBUG (7): Array
+(
+    [0] => Webhook call ended
+    [__pid] => 942212
+)
+
+2017-10-18T02:48:57+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'unsubscribe',
+  'fired_at' => '2017-10-18 02:48:56',
+  'data' => 
+  array (
+    'action' => 'delete',
+    'reason' => 'manual',
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '179.111.38.18',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '473939',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+      'MMERGE4' => '',
+      'MMERGE5' => '',
+      'MMERGE6' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 943905
+)
+
+2017-10-18T02:51:51+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-18 02:51:50',
+  'data' => 
+  array (
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '191.254.44.243',
+    'ip_signup' => '191.254.44.243',
+    'web_id' => '473939',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+      'MMERGE4' => '',
+      'MMERGE5' => '',
+      'MMERGE6' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 945643
+)
+
+2017-10-18T02:57:57+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'unsubscribe',
+  'fired_at' => '2017-10-18 02:57:57',
+  'data' => 
+  array (
+    'action' => 'delete',
+    'reason' => 'manual',
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '191.254.44.243',
+    'ip_signup' => '191.254.44.243',
+    'web_id' => '473939',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+      'MMERGE4' => '',
+      'MMERGE5' => '',
+      'MMERGE6' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 949604
+)
+
+2017-10-18T02:59:47+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-18 02:59:47',
+  'data' => 
+  array (
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '191.254.44.243',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '473939',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+      'MMERGE4' => '',
+      'MMERGE5' => '',
+      'MMERGE6' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 950901
+)
+
+2017-10-18T19:12:55+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-18 19:12:54',
+  'data' => 
+  array (
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '191.254.44.243',
+    'ip_signup' => '191.254.44.243',
+    'web_id' => '473939',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+      'MMERGE4' => '',
+      'MMERGE5' => '',
+      'MMERGE6' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 899620
+)
+
+2017-10-18T19:16:59+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-18 19:16:59',
+  'data' => 
+  array (
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '191.254.44.243',
+    'ip_signup' => '191.254.44.243',
+    'web_id' => '473939',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+      'MMERGE4' => '',
+      'MMERGE5' => '',
+      'MMERGE6' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 904330
+)
+
+2017-10-18T19:18:34+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'profile',
+  'fired_at' => '2017-10-18 19:18:33',
+  'data' => 
+  array (
+    'id' => 'bdaa2827b4',
+    'email' => 'andrecgomyde@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '191.254.44.243',
+    'ip_signup' => '191.254.44.243',
+    'web_id' => '473939',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@gmail.com',
+      'FNAME' => 'André',
+      'LNAME' => 'Gomyde',
+      'MMERGE3' => '1138657501',
+      'MMERGE4' => '11956503363',
+      'MMERGE5' => 
+      array (
+        'addr1' => 'Rua Caraíbas, 212',
+        'addr2' => 'Vila Pompéia',
+        'city' => 'São Paulo',
+        'state' => 'São Paulo',
+        'zip' => '05020-000',
+        'country' => 'BR',
+      ),
+      'MMERGE6' => '01/04',
+      'CGROUP' => 'General',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 906045
+)
+
+2017-10-18T19:43:31+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-18 19:43:30',
+  'data' => 
+  array (
+    'id' => '1fb90c8d34',
+    'email' => 'andrecgomyde@outlook.com',
+    'email_type' => 'html',
+    'ip_opt' => '191.254.44.243',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '571495',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@outlook.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+      'MMERGE4' => '',
+      'MMERGE5' => '',
+      'MMERGE6' => '',
+      'CGROUP' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 934128
+)
+
+2017-10-18T19:44:55+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'profile',
+  'fired_at' => '2017-10-18 19:44:54',
+  'data' => 
+  array (
+    'id' => '1fb90c8d34',
+    'email' => 'andrecgomyde@outlook.com',
+    'email_type' => 'html',
+    'ip_opt' => '191.254.44.243',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '571495',
+    'merges' => 
+    array (
+      'EMAIL' => 'andrecgomyde@outlook.com',
+      'FNAME' => 'André',
+      'LNAME' => 'Gomyde',
+      'MMERGE3' => '(11) 3865-7501',
+      'MMERGE4' => '11956503363',
+      'MMERGE5' => 
+      array (
+        'addr1' => 'Rua Caraíbas, 212',
+        'addr2' => 'Vila Pompéia',
+        'city' => 'São Paulo',
+        'state' => 'SP',
+        'zip' => '05020-000',
+        'country' => 'BR',
+      ),
+      'MMERGE6' => '01/04',
+      'CGROUP' => 'General',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 935561
+)
+
+2017-10-25T23:47:28+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-10-25 23:47:27',
+  'data' => 
+  array (
+    'id' => '121adfd7fa',
+    'email' => 'net.palauro@gmail.com',
+    'email_type' => 'html',
+    'ip_opt' => '177.141.28.95',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '13510511',
+    'merges' => 
+    array (
+      'EMAIL' => 'net.palauro@gmail.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 947899
+)
+
+2017-12-11T22:54:38+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2017-12-11 22:54:36',
+  'data' => 
+  array (
+    'id' => '6b251a52fc',
+    'email' => 'ja@queromundo.com',
+    'email_type' => 'html',
+    'ip_opt' => '177.139.93.170',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '21654115',
+    'merges' => 
+    array (
+      'EMAIL' => 'ja@queromundo.com',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 840657
+)
+
+2018-05-10T07:30:52+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2018-05-10 07:30:52',
+  'data' => 
+  array (
+    'id' => '1627a377af',
+    'email' => 'sfreimberg@yahoo.com.br',
+    'email_type' => 'html',
+    'ip_opt' => '179.110.154.16',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '68555447',
+    'merges' => 
+    array (
+      'EMAIL' => 'sfreimberg@yahoo.com.br',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 243129
+)
+
+2018-05-10T11:06:00+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'subscribe',
+  'fired_at' => '2018-05-10 11:05:59',
+  'data' => 
+  array (
+    'id' => '1627a377af',
+    'email' => 'sfreimberg@yahoo.com.br',
+    'email_type' => 'html',
+    'ip_opt' => '179.110.154.16',
+    'ip_signup' => '216.172.172.25',
+    'web_id' => '68555447',
+    'merges' => 
+    array (
+      'EMAIL' => 'sfreimberg@yahoo.com.br',
+      'FNAME' => '',
+      'LNAME' => '',
+      'MMERGE3' => '',
+    ),
+    'list_id' => '0cbd8a6eb6',
+  ),
+)
+    [__pid] => 448869
+)
+

@@ -1,0 +1,25 @@
+<div class="custom-block">
+<div class="owl-carousel owl-theme" id="custom-owl-slider-product">
+<div class="item"><img alt="" class="lazyOwl" style="width: 270px;" data-src="https://queromundo.com/media/wysiwyg/porto/homepage/content/01/parcelas-Loja_Quero_Mundo.png"  /></div>
+<div class="item"><img alt="" class="lazyOwl" style="width: 270px;" data-src="https://queromundo.com/media/wysiwyg/porto/homepage/content/01/qualidade-Loja_Quero_Mundo.png" /></div>
+</div>
+<script type="text/javascript">// <![CDATA[
+            jQuery(function($){
+                $("#custom-owl-slider-product").owlCarousel({
+                    lazyLoad: true,
+                    slideSpeed : 1300,
+                    paginationSpeed : 1400,
+                    singleItem:true,
+                    responsiveRefreshRate: 50,
+                    slideSpeed: 1200,
+                    paginationSpeed: 500,
+                    stopOnHover: false,
+                    rewindNav: true,
+                    rewindSpeed: 600,
+                    navigation: false
+                });
+
+            });
+        
+// ]]></script>
+</div>

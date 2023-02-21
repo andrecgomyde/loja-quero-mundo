@@ -1,0 +1,16 @@
+<div class="block">
+<div class="block-title"><strong><span>CONTATO</span></strong></div>
+<div class="block-content">
+<ul class="contact-info" style="padding-top: 7px;">
+<li>
+<p><strong style="color: #fff; text-transform: uppercase;">Endere&ccedil;o</strong><br />Rua Schilling, 576 - Vila Leopoldina<br>São Paulo - SP - CEP.: 05302-001</p>
+</li>
+<li>
+<p><strong style="color: #fff; text-transform: uppercase;">Telefones</strong><br /><a href="tel:01136412861">11 3641-2861<br/><a href="tel:011973539580">11 97353-9580</a></p>
+</li>
+<li>
+<p><strong style="color: #fff; text-transform: uppercase;">E-mail</strong><br /><a href="mailto:sac@queromundo.com">sac@queromundo.com</a></p>
+</li>
+</ul>
+</div>
+</div>

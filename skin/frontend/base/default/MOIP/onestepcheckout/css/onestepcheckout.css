@@ -1,0 +1,503 @@
+/* Itens gerais para CreateAccount e onepage */
+#footer-inbootom {
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    padding: 20px 0px;
+}
+.btn:focus {
+  outline: none !important;
+}
+*:focus {
+  outline: none !important;
+}
+
+.bg-white {background: #fff;}
+.hidden-it {display: none;}
+.hide-zip-code {display: none;}
+.show-zip-code {display: block;}
+.dados-pj {display: none;}
+.force-nodisplay{display: none !important;}
+h1.center-info {
+  text-align: center;
+}
+label.control-label {
+    margin-top: 10px;
+}
+.border-bootom {
+    margin: 15px 0;
+}
+/* Setamos os itens para aumentar compatibilidade com outros temas de magento */
+.logo img {
+    margin-top: 5px;
+}
+.form-list select {
+    margin-top: 0px  !important;
+    width: 100% !important;
+    max-width: 100%;
+    
+}
+input[type=number], input[type=email], input[type=password], input[type=tel], input[type=text] {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 34px;
+}
+.has-feedback .form-control {
+  padding-right: 0px !important;
+}
+.link { cursor: pointer;}
+/* Itens gerais para CreateAccount */
+
+.tab-pane {
+    position: relative;
+}
+p.small {
+    font-size: 80%;
+    margin-top: 67px;
+}
+button#singlebutton {
+    margin-top: 32px;
+    height: 31px;
+}
+
+
+/* Itens gerais validação erro e sucesso */
+.validation-advice {
+    font-size: 1rem !important;
+    color: #ea1818;
+}
+.validation-passed:not([type='checkbox']):not([type='button']):not([type='submit']) {
+    border: 1px solid #49A149 !important;
+    color: #49A149;
+}
+.validation-failed:not([type='checkbox']):not([type='button']):not([type='submit']) {
+   border: 2px solid #a94442 !important;
+   color: #ea1818;
+}
+/* botões gerais, o alinhamento padrão do bs é center por isto setamos em left */
+.btn-payment, .btn-shipping-availble, .btn-address {
+    text-align: left  !important;
+    white-space: normal !important;
+}
+/*Alinhamento para texto nos botões de seleção do endereço*/
+#address-info {
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+}
+.btn-address {
+    width: 100%;
+    white-space: normal;
+    margin-bottom: 10px !important;
+
+}
+label.btn.btn-primary.btn-address {
+  text-align: left;
+}
+label.btn-address .h2 {
+  line-height: 22px;
+  margin-top: 12px;
+}
+label.btn-new-address {
+     font-weight: bold;
+}
+span.h4.address-title {
+    font-weight: bold;
+    line-height: 24px;
+}
+.h4.address-title.a-center {
+    margin-top: 2px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+span.line-address {
+    float: left;
+    width: 100%;
+}
+.new-address-type .radio {
+    margin-right: 10px;
+}
+/* Controle do background pagamento */
+
+.btn-inputs-payment {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.btn-payment-available.active .icon-payment:before, .btn-payment-available:hover .icon-payment:before {
+    content: "\e013";
+    border: 2px solid;
+}
+.btn-method-shipping:before, .btn-payment-method:before {
+  top: -20px;
+}
+/* Controle de itens selecionados em endreço e envio */
+label.btn.btn-default.btn-address:before {
+    position: absolute;
+    right: 25px;
+}
+.btn-shipping-availble:before, .btn-address:before {
+    position: absolute;
+    z-index: 1;
+    content: " ";
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    right: 4px;
+    top: auto;
+    
+    background: #FFF;
+    width: 25px;
+    height: 25px;
+    border: 2px solid;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 4px;
+    font: 12px;
+
+}
+
+.btn-shipping-availble.active:before, .btn-address.active:before, .btn-shipping-availble:hover:before, .btn-address:hover:before {
+    content: "\e013";
+    border: 2px solid ;
+}
+.btn-address.active:before {
+  float: right;
+  position: relative;
+}
+
+/* Controle das infos em meios de envio */
+span.method-shipping {
+    font-family: sans-serif;
+}
+span.a-center.time-send {
+    font-size: 12px;
+}
+.notes {
+    margin-top: 15px;
+    font-size: 10px;
+}
+div#advice-required-entry-checked-login, #advice-required-entry-billing\:customer_password{
+    position: absolute;
+    top: 100%;
+}
+.btn span.a-right.badge {
+    float: right;
+    width: 70px;
+    text-align: center;
+    top: 4px;
+    margin-left: 10px;
+}
+/* Remove nome principal do metodo de entrega */
+dl#checkout-shipping-method-loadding dt {
+    display: none;
+}
+#meio-de-envio {
+    margin-bottom: 15px;
+    padding-bottom: 30px;
+}
+/*Controles da sessão de pagamento*/
+label.btn.btn-block.btn-group.btn-payment-available img {
+    display: inline-block !important;
+}
+#co-payment-form {
+    width: 100%;
+}
+
+label.btn.btn-block.btn-sm.btn-cofre-save {
+    margin-top: 8px;
+}
+#checkout-payment-method-load dt label {
+    line-height: 40px;
+}
+.sub-title-method{
+    line-height: 32px;
+}
+.btn-payment-available {
+    margin: 0px;
+    margin-top: 0px !important;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0px;
+}
+.btn-payment-available.active, .btn-payment-available:focus, .btn-payment-available:hover {
+    box-shadow: none;
+    background: #fff;
+}
+/* Controle da aba review */
+ul.secure-info {
+    margin-top: 15px;
+}
+ul.secure-info li {
+    width: 115px;
+    margin: 0 auto;
+}
+#review {width: 100%}
+a.btn.btn-transparent.btn-block:focus, a.btn.btn-transparent.btn-block:active {
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+.box-itens {
+    max-height: 380px;
+    overflow-y: auto;
+}
+.itens-striped {
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 5px;
+    float: left;
+}
+.product-name-review {
+    color: #333 !important;
+}
+
+td {
+    border: none !important;
+}
+tbody tr.separed {
+    border-top: 1px solid #ddd !important;
+}
+.table > tbody > tr > td {
+    border: none;
+}
+.itens-review-remove {
+    position: absolute;
+}
+.itens-review-image {
+  position: relative;
+}
+.qty_product_update {
+  text-align: center;
+}
+.btn-update-qty {
+    display: none !important;
+}
+.btn-update-qty-visible{
+  display: block !important;
+}
+
+#btn-area {
+  margin-bottom: 20px;
+}
+
+img.img-thumbnail-review {
+  width: 100%;
+}
+
+.popover {
+  z-index: 10000;
+}
+.bg-payment-method ul {
+    padding: 0px;
+    display: inline-block;
+}
+.modal {
+  overflow-y: auto !important;
+}
+.img-modal-secure { border-radius: 5px; }
+div#checkout-moip {
+    padding-bottom: 40px;
+}
+.text-select-shipping-for-payment {
+    padding: 0 35px;
+}
+/* Controle para quando usar o gift mensagem */
+textarea#gift-message-whole-message {width: 250px;}
+.gift-messages-form .item .details {margin-left: 0px !important}
+.gift-messages-form .item .product-img-box {float: left;width: 100%;}
+.gift-messages-form .item .details .form-list li.wide textarea {width: 250px !important;}
+/* Ajuste para mobiles... */
+@media only screen and (max-width: 768px) {
+  input.input-moip.form-control.valid-digits.input-number {
+    width: 85px !important;
+}
+    label.btn.btn-default span.text {
+        float: left;
+        white-space: normal;
+    }
+    label.btn.btn-default span.big-icon {
+        float: none;
+        text-align: center;
+    }
+    .bg-payment-method {
+     margin-top: 15px; 
+    }
+    .logo {
+        width: 100% !important;
+        text-align: center !important;
+    }
+    .logo img {
+        margin: 0 auto !important;
+    }
+    .btn-payment-available {
+        width: 30% !important;
+    }
+    .btn-address {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .btn-method-shipping {
+        padding: 8px;
+    }   
+   
+    .btn span.a-right.badge {
+      width: 59px;
+    }
+
+}
+@media only screen and (min-width: 769px) {
+  .vertical-center-moip {
+        min-height: 87%;
+        min-height: 87vh;
+        display: flex;
+        align-items: center;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .hcenter {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+  }
+  .vcenter {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: row;
+  }
+}
+
+.icon-payment {
+  width: 100%;
+  line-height: 36px;
+  font-size: 36px;
+}
+.text-payment {
+    width: 100%;
+    font-size: 8px;
+    font-weight: 400;
+}
+.btn-payment-available div {
+    padding-left: 5px;
+}
+.icon-large {
+    font-size: 48px;
+    width: 100%;
+    text-align: center;
+}
+span.big-icon {
+    font-size: 48px;
+    float: left;
+}
+.icon-payment:before {
+    content: " ";
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    position: absolute;
+    border-radius: 50%;
+    right: 3px;
+    border: 2px solid ;
+    font-size: 10px;
+    padding-top: 3px;
+    text-align: center;
+}
+label.btn.btn-block.btn-group.btn-default.btn-payment-available {
+    text-align: left;
+    white-space: normal;
+}
+label.btn.btn-block.btn-group.btn-default.btn-payment-available.active {
+    box-shadow: none;
+}
+
+.btn-address:before {
+  right: 0px;
+}
+.bg-payment-method {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px 0px;
+    background: #fff;
+}
+.btn-shipping-availble.active:before, .btn-shipping-availble:before {
+    right: 110px !important;
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+@media only screen and (min-width: 769px) {
+  .table {
+    display: block;
+  }
+  a.logo img {
+    display: inline-block;
+  }
+  .btn-payment-available.active:after, .btn-payment-available.active:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+  }
+
+  .btn-payment-available.active:after {
+    
+    border-left-color: #ebebeb;
+    border-width: 11px;
+    margin-top: -11px;
+  }
+  .btn-payment-available.active:before {
+    
+    border-left-color: #adadad;
+    border-width: 12px;
+    margin-top: -12px;
+  }
+
+  .popover.top {
+      min-width: 200px;
+  }
+
+  .btn-payment-available {
+    margin-bottom: 10px !important;
+  }
+  .bg-payment-method {
+    min-height: 345px;
+    margin-left: 12px;
+  }
+}
+/* indice do progresso */
+.bs-wizard {margin-top: 15px;margin-bottom: 15px;}
+.bs-wizard > .bs-wizard-step {padding: 0; position: relative; text-align: center;}
+.bs-wizard > .bs-wizard-step + .bs-wizard-step {}
+.bs-wizard > .bs-wizard-step .bs-wizard-stepnum {color: #5cb85c; font-size: 12px; margin-top: 18px; text-transform: uppercase;}
+.bs-wizard > .bs-wizard-step.complete .bs-wizard-stepnum {color: #cccccc;}
+.bs-wizard > .bs-wizard-step .bs-wizard-info {color: #999; font-size: 14px;}
+.bs-wizard > .bs-wizard-step > .bs-wizard-dot {position: absolute; width: 30px; height: 30px; display: block; background: #5cb85c; top: 0px; left: 50%;  margin-left: -15px; border-radius: 50%;} 
+.bs-wizard > .bs-wizard-step.active  > .bs-wizard-dot:after {content: ' '; width: 14px; height: 14px; background: #ffffff; border-radius: 50px; position: absolute; top: 8px; left: 8px; } 
+.bs-wizard > .bs-wizard-step > .progress {position: relative; border-radius: 0px; height: 4px; box-shadow: none; margin: 14px 0;}
+.bs-wizard > .bs-wizard-step > .progress > .progress-bar {width:0px; box-shadow: none; background-color: #5cb85c;}
+.bs-wizard > .bs-wizard-step.complete > .progress > .progress-bar {width:100%;}
+.bs-wizard > .bs-wizard-step.active > .progress > .progress-bar {width:50%;}
+.bs-wizard > .bs-wizard-step:first-child.active > .progress > .progress-bar {width:0%;}
+.bs-wizard > .bs-wizard-step:last-child.active > .progress > .progress-bar {width: 100%;}
+.bs-wizard > .bs-wizard-step.disabled > .bs-wizard-dot {background-color: #E3E3E3;width: 18px;height: 18px;margin-top: 6px;}
+.bs-wizard > .bs-wizard-step.disabled > .bs-wizard-dot:after {opacity: 0;}
+.bs-wizard > .bs-wizard-step:first-child  > .progress {left: 50%; width: 50%;}
+.bs-wizard > .bs-wizard-step:last-child  > .progress {width: 50%;}
+.bs-wizard > .bs-wizard-step.disabled a.bs-wizard-dot{ pointer-events: none;}
+.btn-number {
+    font-size: 8px !important;
+    padding: 10px 3px !important;
+}
+input.input-moip.form-control.valid-digits.input-number {
+    text-align: center;
+    padding: 16px 0px !important;
+}
+

@@ -1,0 +1,103 @@
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyBumuJBTpjJ0H4ushfcgBv1rMJmFVDaazQ"></script>
+<script type="text/javascript">
+    function initialize() {
+        var pos = new google.maps.LatLng(-23.531255, -46.729906);
+        var mapOptions = {
+            center: pos,
+            panControl: true,
+            zoomControl: true,
+            mapTypeControl: true,
+            scaleControl: true,
+            streetViewControl: true,
+            overviewMapControl: true,
+            zoom: 16        };
+        var map = new google.maps.Map(document.getElementById("store_map"), mapOptions);
+        var marker = new google.maps.Marker({
+            position: pos,
+            map: map,
+            title: 'Rua Schilling, 576 - Vila Leopoldina São Paulo - SP - CEP: 05302-001'
+        });
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+<div id="store_map" style="min-height: 300px; width: 100%;"></div>
+
+
+<p><span>Rua Schilling, 576 - Vila Leopoldina -&nbsp;</span><span>S&atilde;o Paulo - SP - CEP.: 05302-001</span></p>
+<b/>
+<div id="messages_product_view"></div>
+<div class="row">
+    <div class="col-sm-12">
+        <p style="text-align: center;"><strong><a href="https://facebook.com/lojaqueromundo" target="_blank"><img src="https://queromundo.com/media/wysiwyg/porto/icones/facebook-Loja_Quero_Mundo.png" /></a>&nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/lojaqueromundo/" target="_blank"><img src="https://queromundo.com/media/wysiwyg/porto/icones/instagram-Loja_Quero_Mundo.png" /></a>&nbsp; &nbsp; &nbsp;<a href="https://twitter.com/lojaqueromundo" target="_blank"><img src="https://queromundo.com/media/wysiwyg/porto/icones/twitter-Loja_Quero_Mundo.png" /></a>&nbsp; &nbsp; &nbsp;<a href="https://www.youtube.com/channel/UCgX5ULh1bord7aj3bvE-uLQ" target="_blank"><img src="https://queromundo.com/media/wysiwyg/porto/icones/youtube-Loja_Quero_Mundo.png" /></a>&nbsp; &nbsp; &nbsp;<span style="font-size: xx-large; color: #78bfca;">/lojaqueromundo</span></strong></p>    </div>
+</div>
+<div class="row">
+    <div class="col-sm-8">
+<form action="/contacts/index/post" id="contactForm" method="post">
+    <h2 class="legend">Envie uma <b>Mensagem</b></h2>
+    <div class="row">
+        <ul class="form-list col-sm-6">
+            <li>
+                <label for="name" class="required"><em>*</em>Nome</label>
+                <div class="input-box">
+                    <input name="name" id="name" title="Nome" value="" class="input-text required-entry" type="text" />
+                </div>
+            </li>
+            <li>
+                <label for="email" class="required"><em>*</em>Email</label>
+                <div class="input-box">
+                    <input name="email" id="email" title="Email" value="" class="input-text required-entry validate-email" type="text" />
+                </div>
+            </li>
+            <li>
+                <label for="telephone">Telefone ou celular</label>
+                <div class="input-box">
+                    <input name="telephone" id="telephone" title="Telefone" value="" class="input-text" type="text" />
+                </div>
+            </li>
+        </ul>
+        <ul class="form-list col-sm-6">
+            <li>
+                <label for="comment" class="required"><em>*</em>Mensagem</label>
+                <div class="input-box input-textarea">
+                    <textarea name="comment" id="comment" title="Comentários" class="required-entry input-text" cols="5" rows="3" placeholder="Como podemos ajudar?"></textarea>
+                </div>
+            </li>
+            <li>
+                <input type="text" name="hideit" id="hideit" value="" style="display:none !important;" />
+                <button type="submit" title="Enviar" class="button"><span><span>Enviar</span></span></button>
+            </li>
+        </ul>
+    </div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+    var contactForm = new VarienForm('contactForm', true);
+//]]>
+</script>
+    </div>
+    <div class="col-sm-4 contact-info">
+        <h2 class="legend">informações de  <b>contato</b></h2>
+                        <div class="row"><div class="col-sm-12">
+                <p><strong>E-Mail</strong></p>
+                <p><span style="color: #72bfcc;">sac@queromundo.com</span></p>
+        
+            </div></div>
+                <div class="row"><div class="col-sm-12">
+                    <p><strong>Telefone SAC</strong></p>
+                    <p><span style="color: #ed1d24;">(11) 3641-2861</span></p>
+                    
+                </div></div>
+                <div class="row"><div class="col-sm-12">
+                    <p><strong>Celular / WhatsApp</strong></p>
+                    <p><span style="color: #62d36c;">(11) 97353-9580</span></p>
+                    <p><span style="color: #62d36c;"><a href="https://chat.whatsapp.com/DuYhsxH8o491gpPNPdA5hb"><span style="color: #62d36c;">Participe do nosso grupo de novidades.</span></a></span></p>
+                    
+                </div></div>
+                <div class="row"><div class="col-sm-12">
+                    
+                </div></div>
+                </div>
+</div>           
+                </div>
+            </div>
+        </div>

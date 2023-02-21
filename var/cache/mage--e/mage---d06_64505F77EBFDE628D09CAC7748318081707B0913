@@ -1,0 +1,361 @@
+
+<div class="nav-bar">
+<!-- menu start -->
+<ul id="nav">
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class=" active  parent level0"> <a href="https://queromundo.com/index.php/04122016/dashboard/index/key/$dashboard/index$/"   class="active"><span>Painel</span></a>
+<ul >
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/abandonedorder/dashboard/key/$abandonedorder/dashboard$/"   class=""><span>Abandoned Cart Dashboard</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Vendas</span></a>
+<ul >
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/sales_order/index/key/$sales_order/index$/"   class=""><span>Pedidos</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/sales_invoice/index/key/$sales_invoice/index$/"   class=""><span>Faturas</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/sales_shipment/index/key/$sales_shipment/index$/"   class=""><span>Entregas</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/sales_creditmemo/index/key/$sales_creditmemo/index$/"   class=""><span>Reembolsos</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/sales_transactions/index/key/$sales_transactions/index$/"   class=""><span>Transações</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/sales_recurring_profile/index/key/$sales_recurring_profile/index$/"   class=""><span>Perfil Recorrente (beta)</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/sales_billing_agreement/index/key/$sales_billing_agreement/index$/"   class=""><span>Cobranças</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/checkout_agreement/index/key/$checkout_agreement/index$/"   class=""><span>Termos e Condições</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Impostos</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/tax_rule/index/key/$tax_rule/index$/"   class=""><span>Gerenciar Regras de Imposto</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/tax_rate/index/key/$tax_rate/index$/"   class=""><span>Gerenciar Cálculo e Área de Imposto</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/tax_rate/importExport/key/$tax_rate/importExport$/"   class=""><span>Importar / Exportar Cálculo de Imposto</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/tax_class_customer/index/key/$tax_class_customer/index$/"   class=""><span>Categorias de Imposto p/ Cliente</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/tax_class_product/index/key/$tax_class_product/index$/"   class=""><span>Categoria de Imposto p/ Produtos</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/abandonedorder/index/key/$abandonedorder/index$/"   class=""><span>Abandoned Cart Orders</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Catálogo</span></a>
+<ul >
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/catalog_product/index/key/$catalog_product/index$/"   class=""><span>Gerenciar Produtos</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/catalog_category/index/key/$catalog_category/index$/"   class=""><span>Gerenciar Categorias</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Atributos</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/catalog_product_attribute/index/key/$catalog_product_attribute/index$/"   class=""><span>Gerenciar Atributos</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/catalog_product_set/index/key/$catalog_product_set/index$/"   class=""><span>Gerenciar Grupo de Atributos</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/urlrewrite/index/key/$urlrewrite/index$/"   class=""><span>Gerenciar Reescrita de URL</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/catalog_search/index/key/$catalog_search/index$/"   class=""><span>Termos Buscados</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Avaliações e Comentários</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level2"> <a href="#"  onclick="return false" class=""><span>Comentários do Cliente</span></a>
+<ul >
+<li  class="  level3"> <a href="https://queromundo.com/index.php/04122016/catalog_product_review/pending/key/$catalog_product_review/pending$/"   class=""><span>Comentários Pendentes</span></a>
+</li>
+<li  class="  last level3"> <a href="https://queromundo.com/index.php/04122016/catalog_product_review/index/key/$catalog_product_review/index$/"   class=""><span>Todos Comentários</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/rating/index/key/$rating/index$/"   class=""><span>Gerenciar Avaliações</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Tags</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/tag/index/key/$tag/index$/"   class=""><span>Todas Tags</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/tag/pending/key/$tag/pending$/"   class=""><span>Tags Pendentes</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/sitemap/index/key/$sitemap/index$/"   class=""><span>Google Sitemap</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Clientes</span></a>
+<ul >
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/customer/index/key/$customer/index$/"   class=""><span>Gerenciar Clientes</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/customer_group/index/key/$customer_group/index$/"   class=""><span>Grupos de Clientes</span></a>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/customer_online/index/key/$customer_online/index$/"   class=""><span>Clientes Online</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Promoções</span></a>
+<ul >
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/promo_catalog/index/key/$promo_catalog/index$/"   class=""><span>Regras de Preços</span></a>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/promo_quote/index/key/$promo_quote/index$/"   class=""><span>Regras da Promoção</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Newsletter</span></a>
+<ul >
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/newsletter_template/index/key/$newsletter_template/index$/"   class=""><span>Modelos</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/newsletter_queue/index/key/$newsletter_queue/index$/"   class=""><span>Fila de Envio</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/newsletter_subscriber/index/key/$newsletter_subscriber/index$/"   class=""><span>Assinaturas</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/newsletter_problem/index/key/$newsletter_problem/index$/"   class=""><span>Relatório de Problemas</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>MailChimp</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level2"> <a href="#"  onclick="return false" class=""><span>Ecommerce 360 Orders</span></a>
+<ul >
+<li  class="  last level3"> <a href="https://queromundo.com/index.php/04122016/ecommerce/apiorders/key/$ecommerce/apiorders$/"   class=""><span>ALL orders from API</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level2"> <a href="#"  onclick="return false" class=""><span>Bulk Sync</span></a>
+<ul >
+<li  class="  level3"> <a href="https://queromundo.com/index.php/04122016/bulksync/export/key/$bulksync/export$/"   class=""><span>Exportar</span></a>
+</li>
+<li  class="  last level3"> <a href="https://queromundo.com/index.php/04122016/bulksync/import/key/$bulksync/import$/"   class=""><span>Importar</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/abandonedmails/index/key/$abandonedmails/index$/"   class=""><span>Emails Sent</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/system_config/edit/section/mandrill/key/$system_config/edit$/"   class=""><span>Mandrill Settings</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>CMS</span></a>
+<ul >
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/cms_page/index/key/$cms_page/index$/"   class=""><span>Páginas</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/cms_block/index/key/$cms_block/index$/"   class=""><span>Blocos Estáticos</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/widget_instance/index/key/$widget_instance/index$/"   class=""><span>Widgets</span></a>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/poll/index/key/$poll/index$/"   class=""><span>Enquetes</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Daily deal</span></a>
+<ul >
+<li  class="  level1"> <a href="https://queromundo.com/index.php/dailydealadmin/adminhtml_dailydeal/new/key/$adminhtml_dailydeal/new$/"   class=""><span>Add a Deal</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/dailydealadmin/adminhtml_dailydeal/index/key/$adminhtml_dailydeal/index$/"   class=""><span>Manage Deals</span></a>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/system_config/edit/section/dailydeal/key/$system_config/edit$/"   class=""><span>Configurações</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Blog</span></a>
+<ul >
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/awblog_manage_blog/new/key/$awblog_manage_blog/new$/"   class=""><span>Add Post</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/awblog_manage_blog/index/key/$awblog_manage_blog/index$/"   class=""><span>Posts</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/awblog_manage_comment/index/key/$awblog_manage_comment/index$/"   class=""><span>Comentários</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/awblog_manage_cat/index/key/$awblog_manage_cat/index$/"   class=""><span>Categorias</span></a>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/system_config/edit/section/blog/key/$system_config/edit$/"   class=""><span>Configurações</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Relatórios</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Vendas</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_sales/sales/key/$report_sales/sales$/"   class=""><span>Pedidos</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_sales/tax/key/$report_sales/tax$/"   class=""><span>Imposto</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_sales/invoiced/key/$report_sales/invoiced$/"   class=""><span>Faturado</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_sales/shipping/key/$report_sales/shipping$/"   class=""><span>Entrega</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_sales/refunded/key/$report_sales/refunded$/"   class=""><span>Restituições</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_sales/coupons/key/$report_sales/coupons$/"   class=""><span>Cupons</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/paypal_reports/index/key/$paypal_reports/index$/"   class=""><span>PayPal Relatórios de Liquidação</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Carrinho</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_shopcart/product/key/$report_shopcart/product$/"   class=""><span>Produtos em carrinho</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/report_shopcart/abandoned/key/$report_shopcart/abandoned$/"   class=""><span>Carrinhos abandonados</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Produtos</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_sales/bestsellers/key/$report_sales/bestsellers$/"   class=""><span>Mais Vendidos</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_product/sold/key/$report_product/sold$/"   class=""><span>Produtos Comprados</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_product/viewed/key/$report_product/viewed$/"   class=""><span>Mais Populares</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_product/lowstock/key/$report_product/lowstock$/"   class=""><span>Baixo estoque</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/report_product/downloads/key/$report_product/downloads$/"   class=""><span>Downloads</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Clientes</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_customer/accounts/key/$report_customer/accounts$/"   class=""><span>Novos Cadastros</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_customer/totals/key/$report_customer/totals$/"   class=""><span>Clientes por total de pedidos</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/report_customer/orders/key/$report_customer/orders$/"   class=""><span>Clientes por Número de Pedidos</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Tags</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_tag/customer/key/$report_tag/customer$/"   class=""><span>Clientes</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_tag/product/key/$report_tag/product$/"   class=""><span>Produtos</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/report_tag/popular/key/$report_tag/popular$/"   class=""><span>Popular</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Análises</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/report_review/customer/key/$report_review/customer$/"   class=""><span>Comentários dos Clientes</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/report_review/product/key/$report_review/product$/"   class=""><span>Comentários dos Produtos</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/report/search/key/$report/search$/"   class=""><span>Termos Pesquisados</span></a>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/report_statistics/index/key/$report_statistics/index$/"   class=""><span>Atualizar Estatísticas</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Sistema</span></a>
+<ul >
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/system_account/index/key/$system_account/index$/"   class=""><span>Minha Conta</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/notification/index/key/$notification/index$/"   class=""><span>Notificações</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Ferramentas</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/system_backup/index/key/$system_backup/index$/"   class=""><span>Backups</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/compiler_process/index/key/$compiler_process/index$/"   class=""><span>Compilação</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Compartilhar Recursos</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/api_user/index/key/$api_user/index$/"   class=""><span>SOAP/XML-RPC - Usuários</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/api_role/index/key/$api_role/index$/"   class=""><span>SOAP/XML-RPC - Regras</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/api2_role/index/key/$api2_role/index$/"   class=""><span>REST - Roles</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/api2_attribute/index/key/$api2_attribute/index$/"   class=""><span>REST - Attributes</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/oauth_consumer/index/key/$oauth_consumer/index$/"   class=""><span>REST - OAuth Consumidores</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/oauth_authorizedTokens/index/key/$oauth_authorizedTokens/index$/"   class=""><span>REST - OAuth Tokens Autorizados</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/oauth_admin_token/index/key/$oauth_admin_token/index$/"   class=""><span>REST - Meus Apps</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/system_design/index/key/$system_design/index$/"   class=""><span>Visual</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Importar/Exportar</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/import/index/key/$import/index$/"   class=""><span>Importar</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/export/index/key/$export/index$/"   class=""><span>Exportar</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/system_convert_gui/index/key/$system_convert_gui/index$/"   class=""><span>Dataflow - Modelo</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/system_convert_profile/index/key/$system_convert_profile/index$/"   class=""><span>Dataflow - Modelo Avançado</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="https://queromundo.com/index.php/04122016/system_currency/index/key/$system_currency/index$/"   class=""><span>Gerenciar Moeda</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/system_currency/index/key/$system_currency/index$/"   class=""><span>Tarifas</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/system_currencysymbol/index/key/$system_currencysymbol/index$/"   class=""><span>Símbolos</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="https://queromundo.com/index.php/04122016/system_email_template/index/key/$system_email_template/index$/"   class=""><span>Emails de Transação</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent last level2"> <a href="#"  onclick="return false" class=""><span>Mandrill</span></a>
+<ul >
+<li  class="  last level3"> <a href="https://queromundo.com/index.php/04122016/mandrill_users/senders/key/$mandrill_users/senders$/"   class=""><span>Senders</span></a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/system_variable/index/key/$system_variable/index$/"   class=""><span>Variáveis Personalizadas</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Permissões</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/permissions_user/index/key/$permissions_user/index$/"   class=""><span>Usuários</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/permissions_role/index/key/$permissions_role/index$/"   class=""><span>Nível de Acesso</span></a>
+</li>
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/permissions_variable/index/key/$permissions_variable/index$/"   class=""><span>Variables</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/permissions_block/index/key/$permissions_block/index$/"   class=""><span>Blocks</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Magento Connect</span></a>
+<ul >
+<li  class="  level2"> <a href="https://queromundo.com/index.php/04122016/extension_local/index/key/$extension_local/index$/"   class=""><span>Abrir Magento Connect</span></a>
+</li>
+<li  class="  last level2"> <a href="https://queromundo.com/index.php/04122016/extension_custom/index/key/$extension_custom/index$/"   class=""><span>Criar Extensão</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/cache/index/key/$cache/index$/"   class=""><span>Gerenciar Cache</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/process/list/key/$process/list$/"   class=""><span>Gerenciar Índices</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/system_store/index/key/$system_store/index$/"   class=""><span>Gerenciar Lojas</span></a>
+</li>
+<li  class="  level1"> <a href="https://queromundo.com/index.php/04122016/sales_order_status/index/key/$sales_order_status/index$/"   class=""><span>Status do Pedido</span></a>
+</li>
+<li  class="  last level1"> <a href="https://queromundo.com/index.php/04122016/system_config/index/key/$system_config/index$/"   class=""><span>Configuração</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level0"> <a href="https://queromundo.com/index.php/04122016/redirect/goto/key/$redirect/goto$/"   class=""><span>InstantSearch+</span></a>
+</li>
+</ul>
+<!-- menu end -->
+
+    <a id="page-help-link" href="http://merch.docs.magento.com/ce/user_guide/store-operations/reports-dashboard.html">Ajuda</a>
+    <script type="text/javascript">$('page-help-link').target = 'magento_page_help'</script>
+
+</div>

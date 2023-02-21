@@ -1,0 +1,36 @@
+<form id="search_mini_form" action="//queromundo.com/catalogsearch/result/" method="get">
+    <div class="form-search ">
+        <label for="search">Buscar:</label>
+                <input id="search" type="text" name="q" class="input-text" />
+                <select id="cat" name="cat">
+            <option value="">Categorias</option>
+                            <option value="7">Bebê Menina</option>
+                                                            <option value="13">- Combinados</option>
+                                            <option value="14">- Para Sair</option>
+                                            <option value="15">- Monte Seu Look</option>
+                                            <option value="42">- Presentes</option>
+                                            <option value="50">- Idade</option>
+                                                                <option value="6">Bebê Menino</option>
+                                                            <option value="10">- Combinados</option>
+                                            <option value="11">- Para Sair</option>
+                                            <option value="12">- Monte Seu Look</option>
+                                            <option value="46">- Presentes</option>
+                                            <option value="54">- Idade</option>
+                                                                <option value="8">Acessórios</option>
+                                                            <option value="35">- Tapa Fralda</option>
+                                            <option value="36">- Toucas E Luvas</option>
+                                            <option value="37">- Babador</option>
+                                                                <option value="74">Precinho de Banana</option>
+                                                            <option value="75">- Bebê menina</option>
+                                            <option value="76">- Bebê Menino</option>
+                                                                <option value="77">Verão 2018</option>
+                                                            <option value="78">- Bebê Menina</option>
+                                            <option value="79">- Bebê Menino</option>
+                                                                <option value="73">Contato</option>
+                                                                                <option value="39"> Sobre a Loja</option>
+                                                                        </select>
+                <button type="submit" title="Procurar" class="button"><i class="icon-search"></i></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <div class="clearer"></div>
+    </div>
+</form>

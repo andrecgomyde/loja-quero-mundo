@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 862
+Content-Type: text/xml; charset=iso-8859-1
+Expires: Wed, 11 Apr 2018 12:59:08 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+Set-Cookie: ASP.NET_SessionId=oczjw2ptnwbr1oqfkqs0b4mo; path=/; HttpOnly
+X-Powered-By: ASP.NET
+Date: Wed, 11 Apr 2018 12:59:08 GMT
+Connection: close
+
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Servicos><cServico><Codigo>04510</Codigo><Valor>17,40</Valor><PrazoEntrega>5</PrazoEntrega><ValorSemAdicionais>17,40</ValorSemAdicionais><ValorMaoPropria>0,00</ValorMaoPropria><ValorAvisoRecebimento>0,00</ValorAvisoRecebimento><ValorValorDeclarado>0,00</ValorValorDeclarado><EntregaDomiciliar>S</EntregaDomiciliar><EntregaSabado>N</EntregaSabado><Erro>0</Erro><MsgErro></MsgErro><obsFim></obsFim></cServico><cServico><Codigo>04014</Codigo><Valor>18,60</Valor><PrazoEntrega>1</PrazoEntrega><ValorSemAdicionais>18,60</ValorSemAdicionais><ValorMaoPropria>0,00</ValorMaoPropria><ValorAvisoRecebimento>0,00</ValorAvisoRecebimento><ValorValorDeclarado>0,00</ValorValorDeclarado><EntregaDomiciliar>S</EntregaDomiciliar><EntregaSabado>S</EntregaSabado><Erro>0</Erro><MsgErro></MsgErro><obsFim></obsFim></cServico></Servicos>

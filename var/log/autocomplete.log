@@ -1,0 +1,10 @@
+2017-07-10T04:35:59+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-install-2.0.1.1.php triggered
+2017-07-10T04:35:59+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-upgrade-2.0.1.3-2.0.2.2.php triggered
+2017-07-10T04:35:59+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-upgrade-2.0.2.5-2.0.2.6.php triggered
+2017-07-10T04:35:59+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-upgrade-2.0.4.6-2.0.4.7.php triggered
+2017-07-10T04:35:59+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-upgrade-2.0.5.4-2.0.5.5.php triggered
+2017-07-10T04:35:59+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-upgrade-2.0.7.0-2.0.7.1.php triggered
+2017-07-10T04:35:59+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-upgrade-2.0.7.2-2.0.7.3.php triggered
+2017-07-10T04:36:00+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-upgrade-2.0.8.8-3.0.0.0.php triggered
+2017-07-10T04:36:00+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-upgrade-3.0.0.3-3.0.0.4.php triggered
+2017-07-10T04:36:01+00:00 DEBUG (7): /home/queromundo/public_html/app/code/local/Autocompleteplus/Autosuggest/sql/autosuggest_setup/mysql4-upgrade-3.0.0.3-3.0.0.4.php triggered
